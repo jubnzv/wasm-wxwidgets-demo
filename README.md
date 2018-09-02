@@ -25,14 +25,14 @@ popd
 ```
 
 To run wx desktop application:
-```
+```bash
 ./src/wx
 ```
 
 To run web frontend run:
-```
+```bash
 cd static
 python -m SimpleHTTPServer 8000
 ```
 
-And go to http://localhost:8000/test.html
+See result at http://localhost:8000/
