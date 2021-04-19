@@ -22,7 +22,7 @@ apt install libwxgtk3.0-gtk3-dev libglew-dev libgl1-mesa-dev
 ## Building and running
 
 ```bash
-git clone https://github.com/jubnzv/wasm-wxwidgets-proof-of-concept example
+git clone https://github.com/jubnzv/wasm-wxwidgets-demo example
 pushd example/src/
 make
 popd
