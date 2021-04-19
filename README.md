@@ -14,6 +14,10 @@ on both native UI (wxWidgets) and web (WASM) frontends.
 ```bash
 apt install libwxgtk3.0-dev libglew-dev libgl1-mesa-dev
 ```
+For Ubuntu 20.10, use the following command:
+```bash
+apt install libwxgtk3.0-gtk3-dev libglew-dev libgl1-mesa-dev
+```
 
 ## Building and running
 
